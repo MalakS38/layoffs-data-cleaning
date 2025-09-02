@@ -50,12 +50,11 @@ This project demonstrates SQL data cleaning techniques on a dataset of company l
 - Basic analysis to find patterns and trends after cleaning the data.
 - Min/Max layoffs and percentages
 - Identify companies with full (100%) layoffs
-- Aggregations & Rankings:
--   Largest single-day layoffs
--   Total layoffs by company, location, country, and year
--   Top 3 companies with most layoffs each year
--   Time-Based Analysis such as Monthly rolling layoffs over time
--   Average layoffs by industry
+- Aggregations & Rankings
+- Total layoffs by company, location, country, and year
+- Top 3 companies with most layoffs each year
+- Time-Based Analysis such as Monthly rolling layoffs over time
+- Average layoffs by industry
 - **SQL Script:** `EDA_queries.sql`
 
 ---
